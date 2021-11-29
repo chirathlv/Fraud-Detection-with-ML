@@ -10,7 +10,9 @@
 2.Data, Technology and Coding Standards.
 
     -Data Sources
+    
     -Technologies
+    
     -Coding Standards
     
 3.Data Cleanse and Visualisation
@@ -26,7 +28,7 @@ The financial sector in which operates throughout the world as we know, is argua
 
 As in any industry and any society, no matter how advanced or behind, there is always ways and opportunities to cheat the system, and gain and leverage mis information or poor security & operations, in order for financial gain.
 
-As the world evolves and technology advances,We see more and more cases of fraud and data theft within the financial sector each year, costing businesses, individuals, and the economy billions of dollars.
+As the world evolves and technology advances, we see more and more cases of fraud and data theft within the financial sector each year, costing businesses, individuals, and the economy billions of dollars.
 
 The Purpose of this Code and the Assignment Is to use and develope machine learning models to prove the importance and the effectiveness of this technology in the industry, and how it should be implimented across the board.
 
