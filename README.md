@@ -1,6 +1,7 @@
 
 # The importance of Machine learning in Finance.
-(https://miro.medium.com/max/3840/1*ibYKQtnJcLT6XBgYKQH5gQ.jpeg)
+
+![] (https://miro.medium.com/max/3840/1*ibYKQtnJcLT6XBgYKQH5gQ.jpeg)
 
 # Table of Contents
 
@@ -27,13 +28,16 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 
 ### Data Sources
 
-  1.Credit Card Data For ML model. [Kaggle] (https://www.kaggle.com/ealtman2019/credit-card-transactions)
+  1.Credit Card Data For ML model. (Kaggle)
   
  The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 20 million transactions generated from a virtual world simulation.
 The Data covers 2000 synthetic consumer residents in the US, who travel the world.
 
-  -Fraud Statistics. [the ascent] (https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/), [FTC] (https://www.ftc.gov/)
-  -
+  2.Fraud Statistics.
+   -The Ascent
+   -Federal Trade Commision.
+  
+ 
 
 ### Technology stack
 
@@ -69,3 +73,7 @@ The following Data cleaning procedure has been followed in order to produce accu
 ## Machine Learning Model Procedure / Analysis
 
 
+### References
+(https://www.kaggle.com/ealtman2019/credit-card-transactions)
+(https://www.ftc.gov/)
+(https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/)
