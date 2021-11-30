@@ -39,6 +39,18 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 
 ### Technology stack
 
+- python 3.8.3
+- pandas 1.0.5
+- numpy 1.18.5
+- python-dotenv 0.19.0
+- requests 2.24.0
+- json 2.0.9
+- panel 0.9.7
+- plotly 5.3.1
+- hvplot 0.7.3
+- matplotlib 3.2.2
+- jupyter lab 2.1.5
+
 ### Coding Standards
 
 Following rules have been applied during code development and testing:
