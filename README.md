@@ -1,6 +1,6 @@
 # The importance of Machine learning in Finance.
 
-![AI in Finance](AIinfinance.jpeg)
+![AI in Finance](https://github.com/chirathlv/project2/blob/chirath/Images/AIinfinance.jpeg)
 
 # Table of Contents
 
