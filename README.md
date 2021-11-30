@@ -1,10 +1,10 @@
-# The importance of Machine learning in Finance.
+# Fraud Detection
 
 ![AI in Finance](https://github.com/chirathlv/project2/blob/chirath/Images/AIinfinance.jpeg)
 
 # Table of Contents
 
-1. [Introduction - Fraud Detection using Machine Learning](#intro)
+1. [Introduction - Machine Learning and Risk mitigation in Finance](#intro)
 2. [Data, Technology and Coding Standards](#para1)
    1. [Data Sources](#subpara1)
    2. [Technologies](#subpara2)
