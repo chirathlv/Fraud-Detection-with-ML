@@ -41,6 +41,17 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 
 ### Coding Standards
 
+Following rules have been applied during code development and testing:
+
+1. All variables must reflect their purpose. Underscore to be used as and when required.
+2. Each step of the code must contain comments to explain the purpose of the code.
+3. A git hub repository called project2 must be set up with branches for each developer.
+4. Each developer must use their own git hub branch to code and unit test developed code.
+5. Lead developer must review code prior to merge.
+6. Lead developer is responsible for merging all code.
+7. Each developer must download the most recent code from main branch before commencing code changes.
+8. Each release must provide a brief message on changes made prior to committing the code.
+
 ## Data Cleaning and Visualisation
 
 ### Data Cleaning
