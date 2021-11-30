@@ -19,7 +19,7 @@
 
 The financial sector in which operates throughout the world as we know, is arguably the most predominant and most influential industry throughout.
 
-As in any industry and any society, no matter how advanced or behind, there is always ways and opportunities to cheat the system, and gain and leverage mis information or poor security & operations, in order for financial gain.
+As in any industry and any society, no matter how advanced or behind, there is always ways and opportunities to cheat the system, and gain and leverage mis-information or poor security & operations, in order for financial gain.
 
 As the world evolves and technology advances, we see more and more cases of fraud and data theft within the financial sector each year, costing businesses, individuals, and the economy billions of dollars.
 
@@ -29,16 +29,14 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 
 ### Data Sources
 
-1.Credit Card Data For ML model. (Kaggle)
+1. Credit Card Data For ML model. (Kaggle)
 
 The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 20 million transactions generated from a virtual world simulation.
-The Data covers 2000 synthetic consumer residents in the US, who travel the world.
+The Data covers 2000 synthetic consumer residents in the US, who travel the world. For this analysis, only 2019 data has been extracted.
 
-2.Fraud Statistics.
-
--The Ascent
-
--Federal Trade Commision.
+2. Fraud Statistics.
+   1. The Ascent
+   2. Federal Trade Commision.
 
 ### Technology stack
 
