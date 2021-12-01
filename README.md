@@ -10,7 +10,7 @@
    2. [Technologies](#subpara2)
    3. [Coding Standards](#subpara3)
 3. [Data Cleanse and Visualisation](#para2)
-   1. [Data Cleanse](#subpara4)
+   1. [Data Cleansing](#subpara4)
 4. [Machine Learning Analysis and procedures](#para3)
 5. [Recommendations](#para4)
 6. [References](#para5)
@@ -70,7 +70,7 @@ Following rules have been applied during code development and testing:
 
 ## Data Cleaning and Visualisation <a name="para2"></a>
 
-### Data Cleaning <a name="subpara4"></a>
+### Data Cleansing <a name="subpara4"></a>
 
 The following Data cleaning procedure has been followed in order to produce accurate representations in our Machine Learning Model.
 
