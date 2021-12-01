@@ -42,13 +42,16 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 - python 3.8.3
 - pandas 1.0.5
 - numpy 1.18.5
-- python-dotenv 0.19.0
 - requests 2.24.0
 - json 2.0.9
 - panel 0.9.7
 - plotly 5.3.1
 - hvplot 0.7.3
+- seaborn 0.10.1
 - matplotlib 3.2.2
+- scikit-learn 1.0.0 (NOTE scikit-learn 1.0.1 will not work!)
+- imblearn 0.8.1
+- xgboost 1.5.1
 - jupyter lab 2.1.5
 
 ### Coding Standards
@@ -70,29 +73,18 @@ Following rules have been applied during code development and testing:
 
 The following Data cleaning procedure has been followed in order to produce accurate representations in our Machine Learning Model.
 
-1.Identify data set is accurate for the ML model and Analysis.
-
-2.Load data into jupyter notebook.
-
-3.Rename Columns to Suit layout and analysis.
-
-4.Basic Cleaning techniques,duplicates and unwanted columns.
-
-5.Check the target variable class Ratio.
-
-6.Check nulls/nans & further inspect.
-
-7.Fill missing data values with 0.
-
-8.Split time collumn into hours & minutes, then drop 'Time' column.
-
-9.Re-arrange respective columns.
-
-10.Format appropriate columns and change D-types where needed.
-
-11.Transform 'Merchant Name' columns with label encoder.
-
-12.Save Cleaned Data for use in Machine Learning Algorithm.
+1. Identify data set is accurate for the ML model and Analysis.
+2. Load data into jupyter notebook.
+3. Rename Columns to Suit layout and analysis.
+4. Basic Cleaning techniques, duplicates and unwanted columns.
+5. Check the target variable class Ratio.
+6. Check nulls/nans & further inspect.
+7. Fill missing data values in Merchant State with 'UNKNOWN'.
+8. Split time collumn into hours & minutes, then drop 'Time' column.
+9. Re-arrange respective columns.
+10. Format appropriate columns and change D-types where needed.
+11. Transform 'Merchant Name' columns with label encoder.
+12. Save Cleaned Data for use in Machine Learning Algorithm.
 
 ## Machine Learning Model Procedure / Analysis
 
