@@ -104,3 +104,5 @@ The following Data cleaning procedure has been followed in order to produce accu
 [https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/]()
 
 [https://www.projectpro.io/article/8-feature-engineering-techniques-for-machine-learning/423]()
+
+[https://medium.com/microsoftazure/how-to-accelerate-devops-with-machine-learning-lifecycle-management-2ca4c86387a0]()
