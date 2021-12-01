@@ -88,8 +88,10 @@ The following Data cleaning procedure has been followed in order to produce accu
 
 ## Machine Learning Model Procedure / Analysis
 
-### References
+## References
 
 (https://www.kaggle.com/ealtman2019/credit-card-transactions)
+
 (https://www.ftc.gov/)
+
 (https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/)
