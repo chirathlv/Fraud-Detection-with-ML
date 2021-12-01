@@ -15,7 +15,7 @@
 5. [Recommendations](#para4)
 6. [References](#para5)
 
-## Introduction - Machine Learning and Risk mitigation in Finance
+## Introduction - Machine Learning and Risk mitigation in Finance <a name="intro"></a>
 
 The financial sector in which operates throughout the world as we know, is arguably the most predominant and most influential industry throughout.
 
@@ -23,11 +23,11 @@ As in any industry and any society, no matter how advanced or behind, there is a
 
 As the world evolves and technology advances, we see more and more cases of fraud and data theft within the financial sector each year, costing businesses, individuals, and the economy billions of dollars.
 
-The Purpose of this Code and the Assignment Is to use and develope machine learning models to prove the importance and the effectiveness of this technology in the industry, and how it should be implimented across the board.
+The Purpose of this project is to use and develope machine learning models to prove the importance and the effectiveness of this technology in the industry, and how it should be implemented across the board.
 
-## Data, Technology and Coding Standards.
+## Data, Technology and Coding Standards <a name="para1"></a>
 
-### Data Sources
+### Data Sources <a name="subpara1"></a>
 
 1.  Credit Card Data For ML model (Kaggle)
 
@@ -37,7 +37,7 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
     1. The Ascent
     2. Federal Trade Commision
 
-### Technology stack
+### Technology stack <a name="subpara2"></a>
 
 - Google Colab
 - python 3.8.3
@@ -55,7 +55,7 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 - xgboost 1.5.1
 - jupyter lab 2.1.5
 
-### Coding Standards
+### Coding Standards <a name="subpara3"></a>
 
 Following rules have been applied during code development and testing:
 
@@ -68,9 +68,9 @@ Following rules have been applied during code development and testing:
 7. Each developer must download the most recent code from main branch before commencing code changes.
 8. Each release must provide a brief message on changes made prior to committing the code.
 
-## Data Cleaning and Visualisation
+## Data Cleaning and Visualisation <a name="para2"></a>
 
-### Data Cleaning
+### Data Cleaning <a name="subpara4"></a>
 
 The following Data cleaning procedure has been followed in order to produce accurate representations in our Machine Learning Model.
 
@@ -87,13 +87,13 @@ The following Data cleaning procedure has been followed in order to produce accu
 11. Transform 'Merchant Name' columns with label encoder.
 12. Save Cleaned Data for use in Machine Learning Algorithm.
 
-## Machine Learning Model Procedure / Analysis
+## Machine Learning Model Procedure / Analysis <a name="para3"></a>
 
 ### Machine Learning Pipeline
 
 ![ML Pipeline](https://github.com/chirathlv/project2/blob/chirath/Images/ML-Pipeline.png)
 
-## References
+## References <a name="para5"></a>
 
 [https://www.kaggle.com/ealtman2019/credit-card-transactions]()
 
