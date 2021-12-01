@@ -89,6 +89,8 @@ The following Data cleaning procedure has been followed in order to produce accu
 
 ## Machine Learning Model Procedure / Analysis
 
+### Machine Learning Pipeline
+
 ![ML Pipeline](https://github.com/chirathlv/project2/blob/chirath/Images/ML-Pipeline.png)
 
 ## References
@@ -98,3 +100,7 @@ The following Data cleaning procedure has been followed in order to produce accu
 [https://www.ftc.gov/]()
 
 [https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/]()
+
+[https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/]()
+
+[https://www.projectpro.io/article/8-feature-engineering-techniques-for-machine-learning/423]()
