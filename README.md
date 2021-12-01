@@ -39,6 +39,7 @@ The Purpose of this Code and the Assignment Is to use and develope machine learn
 
 ### Technology stack
 
+- Google Colab
 - python 3.8.3
 - pandas 1.0.5
 - numpy 1.18.5
