@@ -123,11 +123,11 @@ Before trainig the data, split the data into 60% for Training and 40% for Testin
 
     1. Logistic Regression
 
-<p align="center">Confusion Matrix</p>
+<p align="center"><b>Confusion Matrix</b></p>
 <p align="center">
   <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cm_lr_clf.png">
 </p>
-<p align="center">Classification Report</p>
+<p align="center"><b>Classification Report</b></p>
 <p align="center">
   <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_lr.PNG">
 </p>
