@@ -31,7 +31,7 @@ The Purpose of this project is to use and develope machine learning models to pr
 
 1.  Credit Card Data For ML model (Kaggle)
 
-    The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 20 million transactions generated from a virtual world simulation.The Data covers 2000 synthetic consumer residents in the US, who travel the world. For this analysis, only 2019 data has been extracted.
+    The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 20 million transactions generated from a virtual world simulation.The Data covers 2000 synthetic consumer residents in the US, who travel the world. For this analysis, only 2019 data has been extracted due to missing fradulant data in some years.
 
 2.  Fraud Statistics
     1. The Ascent
