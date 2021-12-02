@@ -93,6 +93,16 @@ The following Data cleaning procedure has been followed in order to produce accu
 
 ![ML Pipeline](https://github.com/chirathlv/project2/blob/chirath/Images/ML-Pipeline.png)
 
+## Data Preparation
+
+### Data Wrangling
+
+### Feature Engineering
+
+## Model Training
+
+## Model Deployment
+
 ## References <a name="para5"></a>
 
 [https://www.kaggle.com/ealtman2019/credit-card-transactions]()
