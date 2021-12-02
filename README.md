@@ -119,7 +119,7 @@ Next, following Feature Engineering techniques applied to get a better sense of 
 
 ## Model Training
 
-Before trainig the data, split the data into 60% for Training and 40% for Testing. Then, feed the training data into the Machine Learning Algorithms. Next, validate the predctions against metrics and imporve further by tuning hyper-parameters
+Before trainig the data, split the data into 60% for Training and 40% for Testing. Then, feed the training data into the Machine Learning Algorithms. Next, validate the predctions against metrics and imporve further by tuning hyper-parameters. This is an iterative process which continues until model train well enough reducing the cost while increasing the accuracy. Since it is a Fraud detection use cases in financial domain, further forcus on reducing False Negatives as opposed to purely rely on accuracy.
 
     1. Logistic Regression
 
