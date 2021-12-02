@@ -128,7 +128,7 @@ Before trainig the data, split the data into 60% for Training and 40% for Testin
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_lr.PNG">
+  <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_lr.PNG">
 </p>
 
     2. Easy Ensemble Classifier
