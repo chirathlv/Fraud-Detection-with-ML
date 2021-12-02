@@ -123,7 +123,11 @@ Before trainig the data, split the data into 60% for Training and 40% for Testin
 
     1. Logistic Regression
 
-![confusion metrics](https://github.com/chirathlv/project2/blob/chirath/Images/cm_lr_clf.png) | ![classification report](https://github.com/chirathlv/project2/blob/chirath/Images/cr_lr.PNG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cm_lr_clf.png">
+</p>
+
+![confusion metrics]() ![classification report](https://github.com/chirathlv/project2/blob/chirath/Images/cr_lr.PNG)
 
     2. Easy Ensemble Classifier
 
