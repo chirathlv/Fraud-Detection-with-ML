@@ -134,11 +134,45 @@ Before trainig the data, split the data into 60% for Training and 40% for Testin
 
     2. Easy Ensemble Classifier
 
+<p align="center"><b>Confusion Matrix</b></p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cm_easy_ensemble_clf.png">
+</p>
+<p align="center"><b>Classification Report</b></p>
+<p align="center">
+  <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_eeasy_ensemble_clf.PNG">
+</p>
+
     3. XGBoost Classifier
+
+<p align="center"><b>Confusion Matrix</b></p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cm_xgboost_clf.png">
+</p>
+<p align="center"><b>Classification Report</b></p>
+<p align="center">
+  <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_xgboost.PNG">
+</p>
 
     4. Random Forest Classifier
 
+<p align="center"><b>Confusion Matrix</b></p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chirathlv/project2/blob/chirath/Images/cm_rf.png">
+</p>
+<p align="center"><b>Classification Report</b></p>
+<p align="center">
+  <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_rf.PNG">
+</p>
+
 ## Model Deployment
+
+Google colab has been chosen as the desired cloud based platform for model deployment due to following reasons
+
+    1. Cost effectiveness
+    2. Reliability
+    3. No infrastructure overhead
+    4. Usability and accessibility
 
 ## References <a name="para5"></a>
 
