@@ -9,11 +9,16 @@
    1. [Data Sources](#subpara1)
    2. [Technologies](#subpara2)
    3. [Coding Standards](#subpara3)
-3. [Data Cleanse and Visualisation](#para2)
-   1. [Data Cleansing](#subpara4)
+3. [Basic Statistical Analysis](#para2)
 4. [Machine Learning Analysis and procedures](#para3)
-5. [Recommendations](#para4)
-6. [References](#para5)
+   1. [Machine Learning Pipeline](#subpara4)
+   2. [Data Preparation](#para4)
+      1. [Data Ingestion](#subpara5)
+      2. [Data Wrangling](#subpara6)
+      3. [Feature Engineering](#subpara7)
+   3. [Model Training](#para5)
+   4. [Model Deployment](#para6)
+5. [References](#para7)
 
 ## Introduction - Machine Learning and Risk mitigation in Finance <a name="intro"></a>
 
@@ -68,42 +73,26 @@ Following rules have been applied during code development and testing:
 7. Each developer must download the most recent code from main branch before commencing code changes.
 8. Each release must provide a brief message on changes made prior to committing the code.
 
-## Data Cleaning and Visualisation <a name="para2"></a>
+## Basic Statistical Analysis <a name="para2"></a>
 
-### Data Cleansing <a name="subpara4"></a>
-
-The following Data cleaning procedure has been followed in order to produce accurate representations in our Machine Learning Model.
-
-1. Identify data set is accurate for the ML model and Analysis.
-2. Load data into jupyter notebook.
-3. Rename Columns to Suit layout and analysis.
-4. Basic Cleaning techniques, duplicates and unwanted columns.
-5. Check the target variable class Ratio.
-6. Check nulls/nans & further inspect.
-7. Fill missing data values in Merchant State with 'UNKNOWN'.
-8. Split time collumn into hours & minutes, then drop 'Time' column.
-9. Re-arrange respective columns.
-10. Format appropriate columns and change D-types where needed.
-11. Transform 'Merchant Name' columns with label encoder.
-12. Save Cleaned Data for use in Machine Learning Algorithm.
-
-## Basic Statistical Analysis
+The largest amount of fradulent transaction is 1244 and the largest refund fradulent transaction is -475, this suggests that the fraudsters are able to issue refund request and also make fradulent transactions. This however requires further investigation to pin point.
+Overall, according to the box plot, fraudulent transactions exhibit higher average amount (79.42 vs 42.21) per transaction with greater degree of deviation (143 vs 80)
 
 ![SA](https://github.com/chirathlv/project2/blob/chirath/Images/boxplot.png)
 
 ## Machine Learning Model Procedure / Analysis <a name="para3"></a>
 
-### Machine Learning Pipeline
+### Machine Learning Pipeline <a name="subpara4"></a>
 
 ![ML Pipeline](https://github.com/chirathlv/project2/blob/chirath/Images/ML-Pipeline.png)
 
-## Data Preparation
+## Data Preparation <a name="para4"></a>
 
-### Data Ingestion
+### Data Ingestion <a name="subpara5"></a>
 
 Extracted data is from Kaggle platform (Refer to the reference for more details) as a CSV files which was about 24 Million data samples that include Fradulant and non-fradulant transaction details. However, due to limited capacity of processing large amount of data, decision being made to extract subsect of the original dataset. To avoid the selection bias, yearly based data (Year 2019 Data) extracted without loosing any information. Excel and python used as tools to manipulate data which made it ready for the analysis.
 
-### Data Wrangling
+### Data Wrangling <a name="subpara6"></a>
 
 Following Data cleansing techniques used to process the data before going further.
 
@@ -112,7 +101,7 @@ Following Data cleansing techniques used to process the data before going furthe
     3. Correct the data types
     4. Drop unwanted columns
 
-### Feature Engineering
+### Feature Engineering <a name="subpara7"></a>
 
 Next, following Feature Engineering techniques applied to get a better sense of the data and to choose most relavent features from the raw data for the Machine Learning model.
 
@@ -121,7 +110,7 @@ Next, following Feature Engineering techniques applied to get a better sense of 
     3. Feature Encoding
     4. Feature Scaling
 
-## Model Training
+## Model Training <a name="para5"></a>
 
 Before trainig the data, split the data into 60% for Training and 40% for Testing. Then, feed the training data into the Machine Learning Algorithms. Next, validate the predctions against metrics and imporve further by tuning hyper-parameters. This is an iterative process which continues until model train well enough reducing the cost while increasing the accuracy. Since it is a Fraud detection use cases in financial domain, further forcus on reducing False Negatives as opposed to purely rely on accuracy.
 
@@ -169,7 +158,7 @@ Before trainig the data, split the data into 60% for Training and 40% for Testin
   <img src="https://github.com/chirathlv/project2/blob/chirath/Images/cr_rf.PNG">
 </p>
 
-## Model Deployment
+## Model Deployment <a name="para6"></a>
 
 Google colab has been chosen as the desired cloud based platform for model deployment due to following reasons
 
@@ -178,7 +167,7 @@ Google colab has been chosen as the desired cloud based platform for model deplo
     3. No infrastructure overhead
     4. Usability and accessibility
 
-## References <a name="para5"></a>
+## References <a name="para7"></a>
 
 [https://www.kaggle.com/ealtman2019/credit-card-transactions]()
 
