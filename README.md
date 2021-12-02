@@ -87,9 +87,9 @@ The following Data cleaning procedure has been followed in order to produce accu
 11. Transform 'Merchant Name' columns with label encoder.
 12. Save Cleaned Data for use in Machine Learning Algorithm.
 
-# Basic Statistical Analysis
+## Basic Statistical Analysis
 
-![SA]()
+![SA](https://github.com/chirathlv/project2/blob/chirath/Images/boxplot.png)
 
 ## Machine Learning Model Procedure / Analysis <a name="para3"></a>
 
