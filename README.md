@@ -31,7 +31,7 @@ The Purpose of this project is to use and develope machine learning models to pr
 
 1.  Credit Card Data For ML model (Kaggle)
 
-    The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 20 million transactions generated from a virtual world simulation.The Data covers 2000 synthetic consumer residents in the US, who travel the world. For this analysis, only 2019 data has been extracted due to missing fradulant data in some years.
+    The Data Set used for the machine learning model is a Credit Card transactions data set. This Data set has no obfuscation as it has more then 24 million transactions generated from a virtual world simulation.The Data covers 2000 synthetic consumer residents in the US, who travel the world. For this analysis, only 2019 data has been extracted due to missing fradulant data in some years.
 
 2.  Fraud Statistics
     1. The Ascent
@@ -95,11 +95,41 @@ The following Data cleaning procedure has been followed in order to produce accu
 
 ## Data Preparation
 
+### Data Ingestion
+
+Extracted data is from Kaggle platform (Refer to the reference for more details) as a CSV files which was about 24 Million data samples that include Fradulant and non-fradulant transaction details. However, due to limited capacity of processing large amount of data, decision being made to extract subsect of the original dataset. To avoid the selection bias, yearly based data (Year 2019 Data) extracted without loosing any information. Excel and python used as tools to manipulate data which made it ready for the analysis.
+
 ### Data Wrangling
+
+Following Data cleansing techniques used to process the data before going further.
+
+    1. Drop Duplicates
+    2. Handling Missing Values
+    3. Correct the data types
+    4. Drop unwanted columns
 
 ### Feature Engineering
 
+Next, following Feature Engineering techniques applied to get a better sense of the data and to choose most relavent features from the raw data for the Machine Learning model.
+
+    1. Feature Transformation
+    2. Feature Splitting
+    3. Feature Encoding
+    4. Feature Scaling
+
 ## Model Training
+
+Before trainig the data, split the data into 60% for Training and 40% for Testing. Then, feed the training data into the Machine Learning Algorithms. Next, validate the predctions against metrics and imporve further by tuning hyper-parameters
+
+    1. Logistic Regression
+
+![]()
+
+    2. Easy Ensemble Classifier
+
+    3. XGBoost Classifier
+
+    4. Random Forest Classifier
 
 ## Model Deployment
 
