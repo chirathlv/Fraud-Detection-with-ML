@@ -167,7 +167,7 @@ Google colab has been chosen as the desired cloud based platform for model deplo
     3. No infrastructure overhead
     4. Usability and accessibility
 
-Hosted files can be found in below links
+Hosted files can be found in below links (Open with Google Colaboratory)
 
 https://drive.google.com/file/d/1GRwbiNPk_BRxBJpy5GpH7GHHIuS-t5-5/view?usp=sharing
 
