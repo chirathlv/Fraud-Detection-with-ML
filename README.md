@@ -167,6 +167,14 @@ Google colab has been chosen as the desired cloud based platform for model deplo
     3. No infrastructure overhead
     4. Usability and accessibility
 
+Hosted files can be found in below links
+
+    data_cleansing [https://drive.google.com/file/d/1GRwbiNPk_BRxBJpy5GpH7GHHIuS-t5-5/view?usp=sharing]()
+
+    analysis [https://drive.google.com/file/d/1CRn9pSCsjJ5W0YZcEpq6Sslk-JdbGVig/view?usp=sharing]()
+
+    fraud_detection_classification [https://drive.google.com/file/d/1X_-51IZRfOtzNyUspLVn-6dY8ggUzCFh/view?usp=sharing]()
+
 ## References <a name="para7"></a>
 
 [https://www.kaggle.com/ealtman2019/credit-card-transactions]()
