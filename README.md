@@ -169,20 +169,20 @@ Google colab has been chosen as the desired cloud based platform for model deplo
 
 Hosted files can be found in below links
 
-[https://drive.google.com/file/d/1GRwbiNPk_BRxBJpy5GpH7GHHIuS-t5-5/view?usp=sharing]()
+https://drive.google.com/file/d/1GRwbiNPk_BRxBJpy5GpH7GHHIuS-t5-5/view?usp=sharing
 
-[https://drive.google.com/file/d/1CRn9pSCsjJ5W0YZcEpq6Sslk-JdbGVig/view?usp=sharing]()
+https://drive.google.com/file/d/1CRn9pSCsjJ5W0YZcEpq6Sslk-JdbGVig/view?usp=sharing
 
-[https://drive.google.com/file/d/1X\*-51IZRfOtzNyUspLVn-6dY8ggUzCFh/view?usp=sharing]()
+https://drive.google.com/file/d/1X\*-51IZRfOtzNyUspLVn-6dY8ggUzCFh/view?usp=sharing
 
 ## References <a name="para7"></a>
 
-(https://www.kaggle.com/ealtman2019/credit-card-transactions)
+https://www.kaggle.com/ealtman2019/credit-card-transactions
 
-[https://www.ftc.gov/]()
+https://www.ftc.gov/
 
-[https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/]()
+https://www.fool.com/the-ascent/research/identity-theft-credit-card-fraud-statistics/
 
-[https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/]()
+https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/
 
-[https://www.projectpro.io/article/8-feature-engineering-techniques-for-machine-learning/423]()
+https://www.projectpro.io/article/8-feature-engineering-techniques-for-machine-learning/423
